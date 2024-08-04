@@ -66,6 +66,7 @@
             <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
             <connections>
                 <outlet property="label" destination="ak2-OM-c14" id="bzw-Xb-xxt"/>
+                <outlet property="leftImageView" destination="X0n-1o-Rnt" id="6qq-Me-jA0"/>
                 <outlet property="messageBubble" destination="U61-Rj-6cr" id="Ia6-qv-Ou5"/>
                 <outlet property="rightImageView" destination="X0n-1o-Rnt" id="TFF-4o-oOv"/>
             </connections>
